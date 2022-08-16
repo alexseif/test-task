@@ -6,10 +6,10 @@ Symfony
 
 - Estimate how long this task will take you?
 
-1 day
+1 day(3hours)
 
 - How difficult is this task? ( from 1 to 10 )
 
-6
+4
 
 [alex seif]: https://alexseif.com
