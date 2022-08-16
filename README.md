@@ -10,13 +10,13 @@ Todo so, please create a branch from this repo using your name, and answer the 3
 
 - What will you use? (Wordpress, Drupal or Symfony)
 
-ANSWER 1.
+Wordpress.
 - Estimate how long this task will take you?
 
-ANSWER 2.
+4 hours.
 - How difficult is this task? ( from 1 to 10 )
 
-ANSWER 3.
+3.
 
 
 [Alex Seif]: <https://alexseif.com>
