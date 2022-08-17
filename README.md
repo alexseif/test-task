@@ -12,11 +12,10 @@ Todo so, please create a branch from this repo using your name, and answer the 3
  Symfony
 ANSWER 1.
 - Estimate how long this task will take you?
-
+ 3 hours
 ANSWER 2.
 - How difficult is this task? ( from 1 to 10 )
 
 ANSWER 3.
-
-
+5
 [Alex Seif]: <https://alexseif.com>
